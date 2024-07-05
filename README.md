@@ -1,8 +1,10 @@
 ## Javaconfig
 ### Hibernate
 
- <dependency>
-            <groupId>org.hibernate</groupId>
-            <artifactId>hibernate-validator</artifactId>
-            <version>8.0.1.Final</version>
-        </dependency>
+```
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core-jakarta</artifactId>
+    <version>5.6.10.Final</version>
+</dependency>
+```
